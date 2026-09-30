@@ -2,7 +2,7 @@
 
 ![Idea Space](assets/icon.png)
 
-A local notebook for capturing ideas without starting work. Save the original thought, add context later, find it again, or archive it until it matters.
+Give your ideas a place to grow without interrupting your work. Capture the original thought, add context later and find it again when you're ready. Search your collection, build on an idea without replacing the original, and bring it back when the time is right.
 
 ## Install
 
