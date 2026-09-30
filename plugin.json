@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "idea-space",
+  "version": "1.0.0",
+  "description": "Give your ideas a place to grow without interrupting your work. Capture the original thought, add context later and find it again when you're ready.",
+  "author": {
+    "name": "Christian Katzmann"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Idea Space",
+        "shortDescription": "Save ideas. Keep your focus.",
+        "longDescription": "Give your ideas a place to grow without interrupting your work. Save a thought in your own words, keep its links and context, and return to it when the time is right. Idea Space lets you search your collection, add to an idea without replacing the original, and archive thoughts for later. Export your notebook, restore a backup or recover an idea from the trash. Capturing an idea doesn't start a task or create a commitment. The notebook stays on your computer with no cloud sync. Requires a local coding assistant, Python 3.10+ and persistent local storage.",
+        "developerName": "Christian Katzmann",
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png",
+        "defaultPrompt": [
+          "Save this thought in Idea Space without starting work."
+        ],
+        "capabilities": [
+          "Read",
+          "Write",
+          "Local"
+        ],
+        "websiteURL": "https://github.com/Christian-Katzmann/idea-space",
+        "privacyPolicyURL": "https://github.com/Christian-Katzmann/idea-space/blob/main/PRIVACY.md",
+        "supportURL": "https://github.com/Christian-Katzmann/idea-space/blob/main/PRIVACY.md#publisher-and-contact"
+      }
+    }
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Christian-Katzmann/idea-space",
+  "repository": "https://github.com/Christian-Katzmann/idea-space"
+}

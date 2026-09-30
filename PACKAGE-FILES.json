@@ -1,0 +1,17 @@
+{
+  "LICENSE": "0624a46e3519e98c6aa9c7b759751c00e1e66a6576f3b9ee60295abb07654561",
+  "PRIVACY.md": "b6e449e5015f56031853d686cb8d5591d6fbb6d644400155ac889dc431736043",
+  "README.md": "24beecc8fc03d3ef831e59967db6a256d3ee1b469ab74f3b612ee0a7c0ab81d8",
+  "RIGHTS.md": "bea02ff28d20ae64c46c0a3ec6a0f77b92311b2142b354f64ece2992b7e749d6",
+  "assets/icon.png": "699254882017f0e50568af92d26a9cfb3c45112fa43d47eaa3d7e4db2aa88069",
+  "plugin.json": "7ed85bf39a255362fc4f4892f3e196b979e3f5acc2ec0eb6f316d34991ed01e8",
+  "skills/idea-space/LICENSE": "0624a46e3519e98c6aa9c7b759751c00e1e66a6576f3b9ee60295abb07654561",
+  "skills/idea-space/PRIVACY.md": "b6e449e5015f56031853d686cb8d5591d6fbb6d644400155ac889dc431736043",
+  "skills/idea-space/README.md": "7071d958354479b7b98947860561f46b51dd4436bee911616ee2e1151313c238",
+  "skills/idea-space/RIGHTS.md": "bea02ff28d20ae64c46c0a3ec6a0f77b92311b2142b354f64ece2992b7e749d6",
+  "skills/idea-space/SKILL.md": "9c8b1b332e298409769b7d501cfe5a362951c0585c9da9da6262d826e487147d",
+  "skills/idea-space/agents/openai.yaml": "d97f123e9b380daa4806246be08a2077dab4c7dbeb51b968303554d2a7e24c39",
+  "skills/idea-space/scripts/capture_idea.py": "c4ad4f90440dfaf5874363d4b52ba8efbc50a3dab2fb7ba80cdb139765b8ce9f",
+  "skills/idea-space/scripts/idea_space.py": "7867f7b2f7fc4ff5137578291e35160dca4a37a307f113902962c16c1a1bf22e",
+  "skills/idea-space/tests/test_store.py": "0483b5ee8c36f6b602aeb4ef5fad3f6588fcf61c18ca4fa935dde4cb96c4f4a4"
+}

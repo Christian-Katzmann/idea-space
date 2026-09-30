@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Space"
+  short_description: "Capture ideas so they can stop looping"
+  default_prompt: "Use $idea-space to capture this idea in my idea space."
